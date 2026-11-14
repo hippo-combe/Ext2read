@@ -193,4 +193,4 @@ This repository serves as the official landing page for Ext2Read. The software i
 **Get the most recent version of Ext2Read today!**
 
 ---
-**Last updated:** 2026-11-14 14:44:21 UTC
+**Last updated:** 2026-11-14 19:40:57 UTC
